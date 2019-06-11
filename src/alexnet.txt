@@ -1,0 +1,21 @@
+
+
+*** Results Summary For Cnn Model Architecture ALEXNET
+            N Images:  40
+        N Dog Images:  30
+    N Not-Dog Images:  10
+ 
+           pet_match:  75.0
+    pet_correct_dogs: 100.0
+   pet_correct_breed:  80.0
+ pet_correct_notdogs: 100.0
+
+INCORRECT Dog Breed Assigment:
+Real: golden retriever           Classifier: afghan hound, afghan          
+Real: beagle                     Classifier: english foxhound              
+Real: golden retriever           Classifier: tibetan mastiff               
+Real: boston terrier             Classifier: basenji                       
+Real: beagle                     Classifier: walker hound, walker foxhound 
+Real: great pyrenees             Classifier: kuvasz                        
+
+** Total Elapsed Runtime: 0:0:3
